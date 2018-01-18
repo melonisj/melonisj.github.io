@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+table.resume_links_table {
+    margin:0 auto;
+    width:80%;
+    padding:20px;
+}
