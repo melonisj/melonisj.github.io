@@ -1,2 +1,3 @@
 name: Jacob Melonis
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
