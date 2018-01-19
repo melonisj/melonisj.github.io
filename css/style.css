@@ -2,6 +2,15 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.menu_bar {
+    background-color: #C48399;
+    width: 700%;
+    padding: 3px;
+    padding-left: 30px;
+    margin-left: -120px;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
