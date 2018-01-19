@@ -95,3 +95,17 @@ table.resume_links_table a{
 .creative_projects{
   background-color:turquoise;
 }
+
+.project_cell_left{
+  background-color:aliceblue;
+  vertical-align:middle;
+  display:inline-block;
+}
+.project_cell_left img{
+  vertical-align: middle;
+}
+
+span.center_table_text{
+  display: inline-block;
+  vertical-align: middle;
+}
