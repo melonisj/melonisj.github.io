@@ -82,6 +82,13 @@ table.resume_links_table a{
   padding:0px;
   border-collapse:collapse;
   width:600px;
+  color:#e8e8e8;
+  font-size:22px
+}
+
+.work_table a{
+  color:#232323;
+  font-size:18px;
 }
 
 .work_table td{
@@ -89,15 +96,15 @@ table.resume_links_table a{
 }
 
 .work_projects{
-  background-color:beigergb(123, 191, 11);
+  background-color:rgb(37, 123, 14);
 }
 
 .planetarium_show{
-  background-color:rgb(61, 174, 194);
+  background-color:rgb(61, 134, 194);
 }
 
 .creative_projects{
-  background-color:rgb(251, 90, 39);
+  background-color:rgb(158, 39, 251);
 }
 
 .project_cell_left{
