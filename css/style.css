@@ -82,6 +82,7 @@ table.resume_links_table a{
 .work_table{
   padding:0px;
   border-collapse:collapse;
+  width:600px;
 }
 
 .work_projects{
@@ -97,15 +98,27 @@ table.resume_links_table a{
 }
 
 .project_cell_left{
-  background-color:aliceblue;
   vertical-align:middle;
   display:inline-block;
+  width:320px;
 }
+
+.project_cell_left:hover{
+  background-color:aliceblue;
+}
+
 .project_cell_left img{
   vertical-align: middle;
 }
 
 span.center_table_text{
-  display: inline-block;
+  display: inline-blockblock;
+  vertical-align: middle;
+}
+
+span.title_cell{
+  height: 100px;
+  background-color: rgba(55, 55, 55,0.3);
+  text-align: center;
   vertical-align: middle;
 }
