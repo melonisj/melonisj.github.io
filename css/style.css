@@ -79,7 +79,19 @@ table.resume_links_table a{
     color: #333;
 }
 
-.work_table td{
-  border: 1px black solid;
-  padding: 1px;
+.work_table{
+  padding:0px;
+  border-collapse:collapse;
+}
+
+.work_projects{
+  background-color:beige;
+}
+
+.planetarium_show{
+  background-color:blueviolet;
+}
+
+.creative_projects{
+  background-color:turquoise;
 }
