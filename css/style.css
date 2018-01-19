@@ -36,7 +36,6 @@ a:hover {
 }
 
 a.menu_link:hover {
-    text-decoration: underline;
     background-color: #8c0b0b;
     padding-top:21px;
     padding-bottom:21px;
@@ -74,7 +73,7 @@ table.resume_links_table a{
 
 .blurb{
     margin-top:50px;
-    font-size: 24px;
+    font-size: 17px;
     line-height: 22px;
     color: #333;
 }
@@ -108,7 +107,7 @@ table.resume_links_table a{
 }
 
 .project_cell_left:hover{
-  background-color:rgba(255, 255, 255,0.6);
+  background-color:rgba(255, 255, 255,0.3);
 }
 
 .project_cell_left img{
