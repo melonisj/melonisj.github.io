@@ -9,7 +9,7 @@
     width: 700%;
     padding: 3px;
     padding-left: 30px;
-    margin-left: -120px;
+    margin-left: -80px;
 }
 
 .menu_bar ul, footer ul {
@@ -21,6 +21,7 @@
 
 a.menu_link {
   color: #ececec;
+  padding:19px;
 }
 .menu_bar ul li, .footer ul li {
     display: inline;
@@ -37,20 +38,22 @@ a:hover {
 a.menu_link:hover {
     text-decoration: underline;
     background-color: #8c0b0b;
+    padding-top:21px;
+    padding-bottom:21px;
 }
 h1 {
-    font-size: 3em;
+    font-size: 48px;
 
 }
 
 .footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 12px;
 }
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 24px;
 }
 
 ul.posts li {
@@ -64,10 +67,9 @@ table.resume_links_table {
 }
 
 .blurb{
-    margin-top:60px;
-    position:absolute;
-    font-size: 1.5em;
-    line-height: 1.4em;
+    margin-top:50px;
+    font-size: 24px;
+    line-height: 22px;
     color: #333;
 }
 
