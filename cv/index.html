@@ -3,7 +3,17 @@ layout: default
 title: Jacob Melonis Resume
 ---
 <div class="blurb">
+<div id="resume_select">
+	<span class="resume_words">Engineering</span>
+	<label class="resume_switch">
+		<input id="resume_checkbox" type="checkbox" onchange="resume_changer()">
+		<span class="resume_slider round"></span>
+	</label>
+	<span class="resume_words">Astrophysics</span>
+</div>
+<div id="resume_image">
 	<img src="../images/active-resume-ece.jpg" width="80%"/>
+</div>
 	<table class="resume_links_table">
 		<tr>
 			<td colspan="3"><p>Select a file format to download resume</p></td>
