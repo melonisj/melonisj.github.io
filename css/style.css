@@ -4,7 +4,7 @@ body {
 }
 
 .menu_bar {
-    background-color: #C48399;
+    background-color: #b00e0e;
     width: 700%;
     padding: 3px;
     padding-left: 30px;
@@ -17,6 +17,10 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+
+nav div.menu_bar ul li a {
+  color: #ececec;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -27,6 +31,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    background-color: #8c0b0b;
 }
 h1 {
     font-size: 3em;
@@ -42,8 +47,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
@@ -55,4 +60,14 @@ table.resume_links_table {
     margin:0 auto;
     width:80%;
     padding:20px;
+}
+
+.blurb{
+    margin-top:60px;
+    position:absolute;
+}
+
+.work_table td{
+  border: 1px black solid;
+  padding: 1px;
 }
