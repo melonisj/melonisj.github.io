@@ -61,9 +61,15 @@ ul.posts li {
 }
 
 table.resume_links_table {
-    margin:0 auto;
+    margin:60 auto;
     width:80%;
     padding:20px;
+    text-align:center;
+}
+
+table.resume_links_table a{
+  font-size:16px;
+
 }
 
 .blurb{
