@@ -1,9 +1,14 @@
 #resume_select{
-  width: 100%;
+  width: 50%;
+  margin: 60px auto;
+  vertical-align: middle;
+  display: table;
 }
 
 span.resume_words{
   color: #393939;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 /* The switch - the box around the slider */
