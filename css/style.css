@@ -125,3 +125,16 @@ span.center_table_text{
   display: inline-blockblock;
   vertical-align: middle;
 }
+
+#about_containter{
+  width: 100%;
+}
+
+#about_left{
+  float: left;
+  width: 440px;
+}
+
+#about_right{
+  margin-left: 450px;
+}
