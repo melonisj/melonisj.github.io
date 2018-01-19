@@ -19,7 +19,7 @@
     font-weight: bold;
 }
 
-li.menu_li {
+a.menu_link {
   color: #ececec;
 }
 .menu_bar ul li, .footer ul li {
@@ -34,7 +34,7 @@ a:hover {
     text-decoration: underline;
 }
 
-li.menu_li:hover {
+a.menu_link:hover {
     text-decoration: underline;
     background-color: #8c0b0b;
 }
